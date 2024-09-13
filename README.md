@@ -12,3 +12,5 @@ Reference: [github.com/glennraya/vscode-settings-json](https://github.com/glennr
 # Screenshots
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
