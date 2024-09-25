@@ -7,6 +7,7 @@ Reference: [github.com/glennraya/vscode-settings-json](https://github.com/glennr
 | Extensions               |
 | ------------------------ |
 | Andromeda                |
+| hypernym-icons           |
 | Custom CSS and JS Loader |
 
 # Screenshots

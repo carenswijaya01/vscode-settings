@@ -66,10 +66,9 @@
   ],
   "workbench.tree.enableStickyScroll": false,
   "breadcrumbs.enabled": false,
-  "editor.renderWhitespace": "all",
-  "workbench.activityBar.location": "bottom",
+  "editor.renderWhitespace": "none",
+  "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "toggle",
   "workbench.colorTheme": "Andromeda",
-  "workbench.iconTheme": "eq-material-theme-icons",
-  "workbench.sideBar.location": "right"
+  "workbench.iconTheme": "hypernym-icons"
 }
