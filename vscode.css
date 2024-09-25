@@ -1,12 +1,12 @@
 /* Move Tab Bar to bottom */
-.editor-group-container {
+/* .editor-group-container {
   display: flex !important;
   flex-direction: column;
 }
 
 .editor-group-container > .title {
   order: 1;
-}
+} */
 
 /* Code comment style */
 .mtk3 {
