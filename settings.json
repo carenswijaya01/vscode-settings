@@ -64,12 +64,12 @@
     "file:///path/to/vscode.css",
     "file:///path/to/vscode.js"
   ],
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.enableStickyScroll": false,
   "breadcrumbs.enabled": false,
   "editor.renderWhitespace": "all",
   "workbench.activityBar.location": "bottom",
   "window.menuBarVisibility": "toggle",
   "workbench.colorTheme": "Andromeda",
+  "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.sideBar.location": "right"
 }
